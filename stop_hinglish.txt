@@ -645,6 +645,7 @@ nevertheless
 new
 next
 nhi
+nahi
 nine
 no
 nobody
@@ -1053,3 +1054,4 @@ yourself
 yourselves
 you've
 yup
+vro
